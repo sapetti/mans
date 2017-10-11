@@ -1,8 +1,8 @@
-RSE Training app
+# RSE Training app
 
-My first MEAN app. The aim of this MEAN application is to track the workouts for Functional Training and Pilates trainning class in Mans.
+The aim of this MEAN application is to track the workouts for Functional Training and Pilates trainning class in Mans.
 
-Platforms and Frameworks: 
+## Platforms and Frameworks: 
 - Cloud 9 ide 
 - Amazon AWS EC2 
 - Nodejs 
@@ -13,7 +13,7 @@ Platforms and Frameworks:
 - Nodemailer 
 - Node-schedule
 
-Functional specs: 
+## Functional specs: 
 - El horario de las clases es: o Entrenamiento Funcional los lunes de 18:30 a 19:30 hrs. o Pilates los martes de 18:30 a 19:30 hrs. 
 - Estas clases están abiertas para todos los colaboradores que estén interesados en asistir, con un máximo de 7 alumnos por clase a la semana. 
 - Una persona no podrá hacer inscripciones para varias semanas. Solo se puede hacer inscripciones para la siguiente clase. 
